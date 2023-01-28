@@ -1,6 +1,5 @@
-# Digit-Recognizer-Keras
-Digit Recognizer is a Multiclass Classification project involving image recognition. We have to classify handwritten digits as 0 to 9.
-## 0. Introduction
+
+##  Introduction
 
 Digit Recognizer is a Multiclass Classification project involving image recognition. We have to classify handwritten digits as 0 to 9.
 

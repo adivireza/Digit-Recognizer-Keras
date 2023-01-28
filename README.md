@@ -4,7 +4,7 @@ Digit Recognizer is a Multiclass Classification project involving image recognit
 
 Digit Recognizer is a Multiclass Classification project involving image recognition. We have to classify handwritten digits as 0 to 9.
 
-![image.png](attachment:846e7867-f7b2-4b25-a23e-f62ed0c96a7e.png)
+
 
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
 
